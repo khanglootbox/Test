@@ -10,6 +10,7 @@ double Fn(int n)
 }
 
 int main()
-{
+{   
+    cout <<"Giai thua: ";
     cout << Fn(3);
 }
