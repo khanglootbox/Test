@@ -10,6 +10,7 @@ double Fn(int n)
 }
 
 int main()
-{
+{   
+    cout<<"GT : ";
     cout << Fn(3);
 }
