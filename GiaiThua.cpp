@@ -11,6 +11,6 @@ double Fn(int n)
 
 int main()
 {   
-    cout<<"GT : ";
+    cout <<"Giai thua: ";
     cout << Fn(3);
 }
